@@ -1,6 +1,6 @@
-# Upload All Videos From Panopto to Google Drive
+# Upload All Videos From UW Panopto to Google Drive
 
-I'm graduating in a few days, I love Panopto, and I also have unlimited storage on Google Drive. Archiving all the Panopto videos I have access to seems only natural. This is a Python script to do that.
+I'm graduating in a few days, I love Panopto, and I also have unlimited storage on Google Drive. Archiving all the Panopto videos I have access to seems only natural. This is a Python script to do that. Note that this only works for University of Washington students.
 
 ## Requirements
 Python 3.6, pip, and a good internet connection.
